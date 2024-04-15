@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="gulimall-coupon" />
         <module name="gulimaill-coupon" />
         <module name="gulimall-order" />
         <module name="gulimall-member" />
@@ -20,9 +21,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="gulimail-product" options="-parameters" />
       <module name="gulimaill-coupon" options="-parameters" />
-      <module name="gulimall-member" options="-parameters" />
-      <module name="gulimall-order" options="-parameters" />
-      <module name="gulimall-ware" options="-parameters" />
+      <module name="gulimall-member" options="" />
+      <module name="gulimall-order" options="" />
+      <module name="gulimall-ware" options="" />
     </option>
   </component>
 </project>
